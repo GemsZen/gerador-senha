@@ -10,4 +10,3 @@ length = 16
 senha = "".join(random.sample(all,length))
 
 print(senha)
-
